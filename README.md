@@ -55,10 +55,6 @@ You will see your outputted flashcards like below:
 ![2 generated flashcards displayed in terminal](./example.png)
 
 
-## License
-
-This application is covered under the [MIT](https://choosealicense.com/licenses/mit/) license.
-
 ## Author
 
 Phoenix Ouyang - [Github](https://github.com/phoenixouyang)
